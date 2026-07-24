@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -70,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
