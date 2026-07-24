@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
