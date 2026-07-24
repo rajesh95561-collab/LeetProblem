@@ -71,16 +71,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0383-ransom-note) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0412-fizz-buzz) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0383-ransom-note) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Sorting
 |  |
