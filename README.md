@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0238-product-of-array-except-self) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
@@ -100,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
@@ -121,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
