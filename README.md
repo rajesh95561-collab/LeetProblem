@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0412-fizz-buzz) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0011-container-with-most-water) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
