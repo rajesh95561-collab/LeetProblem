@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0728-self-dividing-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0412-fizz-buzz) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
