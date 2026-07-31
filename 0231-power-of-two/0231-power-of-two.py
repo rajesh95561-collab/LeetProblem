@@ -1,8 +1,7 @@
-class Solution:
-    def isPowerOfTwo(self, n: int) -> bool:
-        temp = n
-        while temp >=1:
-            if temp == 1:
-                return True
-            temp = temp/2
-        return False
+class Solution(object):
+    def isPowerOfTwo(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        return n>0 and (n&(n-1)) == 0
