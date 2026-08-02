@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -172,5 +175,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
