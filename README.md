@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
+| [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
