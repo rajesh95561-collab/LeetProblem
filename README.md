@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
