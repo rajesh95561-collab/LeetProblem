@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0054-spiral-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0633-sum-of-square-numbers) |
