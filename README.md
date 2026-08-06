@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0073-set-matrix-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
