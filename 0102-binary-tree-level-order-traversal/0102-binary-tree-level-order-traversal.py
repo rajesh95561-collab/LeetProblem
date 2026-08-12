@@ -1,4 +1,3 @@
-from collections import deque
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -10,7 +9,7 @@ class Solution:
         result = []
         if root == None:
             return result
-        queue = deque([])
+        queue = collections.deque([])
         queue.append(root)
         while len(queue) != 0:
             temp = []
