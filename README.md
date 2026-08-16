@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0231-power-of-two) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0217-contains-duplicate) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
