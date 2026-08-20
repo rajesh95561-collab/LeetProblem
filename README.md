@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
