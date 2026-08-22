@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0412-fizz-buzz) |
+| [1441-build-an-array-with-stack-operations](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1441-build-an-array-with-stack-operations) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0739-daily-temperatures) |
+| [1441-build-an-array-with-stack-operations](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
