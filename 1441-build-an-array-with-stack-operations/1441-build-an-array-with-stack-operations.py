@@ -1,13 +1,11 @@
 class Solution:
     def buildArray(self, target: List[int], n: int) -> List[str]:
-        stack = []
+        target_idx = 0
         result = []
-        for i in range(1,n+1):
-            if i > target[-1]:
-                break
-            stack.append(i)
+        for num in range(1,target[-1]+1):
             result.append("Push")
-            if stack[-1] not in target:
-                stack.pop()
-                result.append("Pop")
-        return result    
+            if num == target[target_idx]:
+                target_idx+=1
+            else:
+              result.append("Pop")
+        return result  
