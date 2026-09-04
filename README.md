@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
