@@ -6,8 +6,6 @@ class Solution:
         for i in range(1,n):
             maxi[i] = max(nums[i],maxi[i-1])
             mini[n-1-i] = min(mini[n-i],nums[n-1-i])
-        print(maxi)
-        print(mini)
         for i in range(len(nums)):
             if maxi[i]-mini[i] <= k:
                 return i
