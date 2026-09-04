@@ -11,8 +11,6 @@ class Solution:
             temp = min(temp,nums[i])
             mini.append(temp)
         mini[:] = mini[::-1]
-        print(maxi)
-        print(mini)
         for i in range(len(nums)):
             if maxi[i]-mini[i] <= k:
                 return i
