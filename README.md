@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 ## Recursion
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0412-fizz-buzz) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
