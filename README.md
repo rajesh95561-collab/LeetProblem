@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0392-is-subsequence) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0290-word-pattern) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0643-maximum-average-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
