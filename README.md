@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0189-rotate-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -352,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
