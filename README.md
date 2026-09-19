@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1441-build-an-array-with-stack-operations) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2404-most-frequent-even-element) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3903-smallest-stable-index-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2404-most-frequent-even-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2404-most-frequent-even-element) |
 | [3731-find-missing-elements](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2404-most-frequent-even-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
