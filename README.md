@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1789-primary-department-for-each-employee) |
 ## Math
 |  |
 | ------- |
