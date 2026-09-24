@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0930-binary-subarrays-with-sum) |
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1441-build-an-array-with-stack-operations) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0930-binary-subarrays-with-sum) |
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0930-binary-subarrays-with-sum) |
 | [3903-smallest-stable-index-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0930-binary-subarrays-with-sum) |
 ## Backtracking
 |  |
 | ------- |
