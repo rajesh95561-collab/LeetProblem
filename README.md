@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1441-build-an-array-with-stack-operations) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2404-most-frequent-even-element) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0930-binary-subarrays-with-sum) |
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2404-most-frequent-even-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2404-most-frequent-even-element) |
 | [3731-find-missing-elements](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3731-find-missing-elements) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0412-fizz-buzz) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3517-smallest-palindromic-rearrangement-i) |
