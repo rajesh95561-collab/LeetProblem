@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0930-binary-subarrays-with-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1441-build-an-array-with-stack-operations) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0930-binary-subarrays-with-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1122-relative-sort-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0930-binary-subarrays-with-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [3903-smallest-stable-index-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0073-set-matrix-zeroes) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Enumeration
 |  |
 | ------- |
