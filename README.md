@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0392-is-subsequence) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0290-word-pattern) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0155-min-stack) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Design
 |  |
