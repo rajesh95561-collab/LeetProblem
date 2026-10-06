@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1486-xor-operation-in-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1486-xor-operation-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
+| [1486-xor-operation-in-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Queue
