@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0189-rotate-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/rajesh95561-collab/LeetProblem/tree/master/1486-xor-operation-in-an-array) |
