@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rajesh95561-collab/LeetProblem/tree/master/0877-stone-game) |
+| [3693-climbing-stairs-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/rajesh95561-collab/LeetProblem/tree/master/2404-most-frequent-even-element) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3693-climbing-stairs-ii](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/rajesh95561-collab/LeetProblem/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
